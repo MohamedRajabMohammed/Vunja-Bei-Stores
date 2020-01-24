@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/wordpress/	FALSE	1999999999	wp_chatbot_wpcommerce_recently_viewed	324%7C247%7C307%7C142%7C340%7C319%7C316%7C361%7C1099%7C157%7C252%7C375%7C132%7C210%7C242
+

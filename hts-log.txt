@@ -1,0 +1,99 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 Jan 2020 16:53:18 at http://localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wordpress/ -O1 "C:\Users\Zulfa\Desktop\Vunja Bei Store" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:09:01	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/chatbot/fonts/quicksand-regular-webfont.woff2
+17:09:01	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.3.0
+17:16:00	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/wordpress/index.php/product/fiesta-shirt/ (from localhost/wordpress/index.php/product-category/accessories/)
+17:16:34	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/wordpress/?p=43 (from localhost/wordpress/index.php/about/)
+17:16:38	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/wordpress/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fwordpress%2Findex.php%2Fabout%2F (from localhost/wordpress/index.php/about/)
+17:16:43	Warning: 	Moved Permanently for localhost/wordpress/?p=41
+17:16:44	Warning: 	File has moved from localhost/wordpress/?p=41 to http://localhost/wordpress/index.php/my-account/
+17:16:50	Warning: 	Moved Permanently for localhost/wordpress/?p=414
+17:16:50	Warning: 	File has moved from localhost/wordpress/?p=414 to http://localhost/wordpress/index.php/contact-us/
+17:16:50	Warning: 	Moved Permanently for localhost/wordpress/?p=39
+17:16:50	Warning: 	File has moved from localhost/wordpress/?p=39 to http://localhost/wordpress/index.php/cart/
+17:16:51	Warning: 	Moved Permanently for localhost/wordpress/?p=362
+17:16:51	Warning: 	File has moved from localhost/wordpress/?p=362 to http://localhost/wordpress/index.php/product/dnk-gray-shoes/
+17:16:51	Warning: 	Moved Permanently for localhost/wordpress/?p=360
+17:16:51	Warning: 	File has moved from localhost/wordpress/?p=360 to http://localhost/wordpress/index.php/product/dnk-blue-sport-shoes/
+17:16:51	Warning: 	Moved Permanently for localhost/wordpress/?p=349
+17:16:51	Warning: 	File has moved from localhost/wordpress/?p=349 to http://localhost/wordpress/index.php/product/torn-blue-jeans-2/
+17:16:51	Warning: 	Moved Permanently for localhost/wordpress/?p=345
+17:16:51	Warning: 	File has moved from localhost/wordpress/?p=345 to http://localhost/wordpress/index.php/product/blue-denim-jeans-2/
+17:16:51	Warning: 	Moved Permanently for localhost/wordpress/?p=229
+17:16:51	Warning: 	File has moved from localhost/wordpress/?p=229 to http://localhost/wordpress/index.php/product/basic-blue-jeans/
+17:16:51	Warning: 	Moved Permanently for localhost/wordpress/?p=212
+17:16:51	Warning: 	File has moved from localhost/wordpress/?p=212 to http://localhost/wordpress/index.php/product/brown-basic-top/
+17:17:08	Warning: 	Moved Permanently for localhost/wordpress/?p=209
+17:17:08	Warning: 	File has moved from localhost/wordpress/?p=209 to http://localhost/wordpress/index.php/product/yellow-basic-top/
+17:17:08	Warning: 	Moved Permanently for localhost/wordpress/?p=194
+17:17:08	Warning: 	File has moved from localhost/wordpress/?p=194 to http://localhost/wordpress/index.php/product/white-top/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=160
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=160 to http://localhost/wordpress/index.php/product/anchor-bracelet/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=109
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=109 to http://localhost/wordpress/index.php/product/light-brown-clutch/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=95
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=95 to http://localhost/wordpress/index.php/product/tops/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=169
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=169 to http://localhost/wordpress/index.php/product/boho-bangle-bracelet/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=211
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=211 to http://localhost/wordpress/index.php/product/white-basic-sleevless-top/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=112
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=112 to http://localhost/wordpress/index.php/product/latest-leather-jackets/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=86
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=86 to http://localhost/wordpress/index.php/product/adidaz-gazelle-light-pink/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=115
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=115 to http://localhost/wordpress/index.php/product/airmax-290/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=121
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=121 to http://localhost/wordpress/index.php/product/aqua-wind-breaker/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=79
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=79 to http://localhost/wordpress/index.php/product/back-pack/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=1096
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=1096 to http://localhost/wordpress/index.php/product/backpack/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=324
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=324 to http://localhost/wordpress/index.php/product/basic-blur-jeans/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=247
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=247 to http://localhost/wordpress/index.php/product/basic-gray-jeans/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=307
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=307 to http://localhost/wordpress/index.php/product/black-jacket/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=142
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=142 to http://localhost/wordpress/index.php/product/black-shorts/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=340
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=340 to http://localhost/wordpress/index.php/product/black-washed-jeans/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/index.php/store/page/1/
+17:17:26	Warning: 	File has moved from localhost/wordpress/index.php/store/page/1/ to http://localhost/wordpress/index.php/store/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=319
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=319 to http://localhost/wordpress/index.php/product/brown-blazer-jacket/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=316
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=316 to http://localhost/wordpress/index.php/product/dnk-black-shoes-green-led/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=361
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=361 to http://localhost/wordpress/index.php/product/dnk-brown-shoes/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/index.php/product-category/men/page/1/
+17:17:26	Warning: 	File has moved from localhost/wordpress/index.php/product-category/men/page/1/ to http://localhost/wordpress/index.php/product-category/men/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=1099
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=1099 to http://localhost/wordpress/index.php/product/sports-kit-accessories/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=157
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=157 to http://localhost/wordpress/index.php/product/buddha-bracelet/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=252
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=252 to http://localhost/wordpress/index.php/product/blue-denim-jeans/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/?p=375
+17:17:26	Warning: 	File has moved from localhost/wordpress/?p=375 to http://localhost/wordpress/index.php/product/dnk-white-shoes-with-led/
+17:17:26	Warning: 	Moved Permanently for localhost/wordpress/index.php/product-category/women/page/1/
+17:17:26	Warning: 	File has moved from localhost/wordpress/index.php/product-category/women/page/1/ to http://localhost/wordpress/index.php/product-category/women/
+17:17:40	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+17:17:41	Warning: 	Moved Permanently for localhost/wordpress/?p=43
+17:17:41	Warning: 	File has moved from localhost/wordpress/?p=43 to http://localhost/wordpress/index.php/about/
+17:17:41	Warning: 	Moved Permanently for localhost/wordpress/?p=210
+17:17:41	Warning: 	File has moved from localhost/wordpress/?p=210 to http://localhost/wordpress/index.php/product/white-sleevless-top/
+17:17:41	Warning: 	Moved Permanently for localhost/wordpress/?p=242
+17:17:41	Warning: 	File has moved from localhost/wordpress/?p=242 to http://localhost/wordpress/index.php/product/torn-blue-jeans/
+17:17:41	Warning: 	Moved Permanently for localhost/wordpress/?p=132
+17:17:41	Warning: 	File has moved from localhost/wordpress/?p=132 to http://localhost/wordpress/index.php/product/fiesta-shirt/
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 25 seconds : 534 links scanned, 489 files written (15612648 bytes overall) [15825774 bytes received at 10802 bytes/sec], 1.6 requests per connection
+(No errors, 88 warnings, 0 messages)
